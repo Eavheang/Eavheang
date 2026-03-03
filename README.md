@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oeng Eavheang</h1>
-<h3 align="center">🤖 AI Software Engineer | 🚀 Full-Stack Builder | 🇰🇭 Khmer Tech Creator</h3>
+<h3 align="center">🤖 AI Software Engineer | 🚀 Full-Stack Builder </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Full-Stack+TypeScript+%2B+Python;Real-Time+Voice+AI+Builder;Khmer+Tech+Innovator;Always+Learning+%F0%9F%94%A5" />
